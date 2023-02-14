@@ -34,8 +34,8 @@ iii) Debt to Equity
 iv) Profit after tax
   Check quaterly, yearly or historical PAT data. In profit check for exceptional items. 
   
-iv) Profit margin
-  Check quaterly, yearly or historical PAT data.
+iv) Profit margin and Operating profit margin percentage
+  Check quaterly, yearly or historical PAT data. Check OPM% also with peers for buying.
  
 v) EPS - Earning Per Share
   It should be constant or good to have if it is increasing.
