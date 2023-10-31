@@ -1,12 +1,12 @@
 Disclaimer :- I am not SEBI registered. Buy sell stocks depending on your financial adviser. 
 
-Buy stocks only when Nifty falls below 15%. 
+Buy stocks only when Nifty falls above 5%. 
 
-ETFs are also good. Always go for index ETFs than sectorial ETFs. 
+ETFs are also good. Always go for index ETFs than sectorial ETFs. ETF check ATR actual true range means volatility.
 
 Defensive sectors
-i) Pharma and Healthcare.
-ii) FMCG
+i)FMCG
+ii)  Pharma, Healthcare and Hospitals.
 iii) IT (may or may not depending on situation)
 
 Pharma and FMCG are always good whether it is flood, earthquake, war, pandemic like situations, recession etc.
@@ -58,6 +58,9 @@ vii) High dividend yield
 viii) Pledged shares
     Do not consider company having shares pledged.
 
+ix) Cash flow is important. Check for operating cash flow of company.  
+
+x) Check for cash conversion cycle, inventory cycle etc. 
 
 
 Technicals
@@ -94,15 +97,25 @@ ix) bseindia.com
 x) Economic Times
 
 Buy tips:-
+
 i) If quaterly results are good then one can buy good qty of shares. If you buy 10 then after good profit you can book profit of 5 shares. If same share correct below booked profit percentage amount then again you can buy.
 
 ii) Buy cheap price stocks in bulk quantity and while selling just withdraw principal amount and tax amount or some profit if required.
 
 iii) If for 30 rs shares you buy 1000 qty then you can counter balance it with remaining 70 K portofolio. Ofcourse remaining 70 k should be in different stocks. 
 
+iv) Selling stock and buying on same day do it on different exchanges. 
+
+v) As you can average down. Also you can average up. Average to increase quantity. 
+
+
+
 Profit book tips:-
+
 i) Sell entire and book profit if principal amount is required.
 
 ii) Keep shares only equal to (profit + tax) divide by current price. So that remaining shares you expect to go higher in future.
+
 iii) Check quateryly results on time. If loss by company in current quaterly results then sell entire stake at 9.15 itself and take short positions in intraday. 
+
 iv) While booking profit check whether stock is PSU or not. Check for last day move of US mkt. Check whether scrip is over bought or not.
