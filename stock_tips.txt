@@ -118,6 +118,7 @@ ix) If market is bullish and stock is growing then one can enter the stock again
 
 x) If MFI and RSI above 60 one can buy in small quantity. 
 
+xi) Buying also depends on whether market is bullish or bearish. If RSI of nifty above 60 then mkt is bullish. In bull market or bull run, bullish stock continues to be bullish. So in bull run, if bullish stocks gives good correction then it is buying opportunity. 
 
 
 Profit book tips:-
